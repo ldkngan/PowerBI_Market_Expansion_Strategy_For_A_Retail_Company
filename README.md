@@ -116,7 +116,7 @@ The dataset consists of **three tables:**
 - Canada: This is small but highest margin market. Low revenue but outstanding profit margin (~28%) → Potential to expand and position as a premium niche market.
 - Africa & EMEA: These are Weak Markets - Low sales and margins despite high YoY growth → Not a priority for major investment; maintain presence and use as test markets for new products/models.
 
-**👥 Sales Representatives**
+**👩 Sales Representatives**
 - Anna Andreadi is the top performer with highest total sales (~$2.8M), significantly outperforming all other reps. She could take on a leadership role in training or best practice sharing for other reps.
 - Nicole Hansen is the only sales representatives in Canada, which presents both an operational risk and a growth limitation. It is advisable to retain Nicole as the lead representative for Canada and capitalize on her proven performance by involving her in onboarding and training new team members.
 
