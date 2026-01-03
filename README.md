@@ -1,4 +1,7 @@
 # PowerBI | Global Superstore Market Expansion Strategy
+This project uses the Global Superstore dataset to analyze sales performance, profitability, and customer behavior in order to support business decision-making. The analysis identifies key trends across regions, product categories, and time, helping highlight growth opportunities and areas of inefficiency. Interactive dashboards were built in Power BI to track key business KPIs and provide clear, actionable insights for stakeholders. This project demonstrates the ability to translate raw data into meaningful business insights and communicate results in a clear, decision-focused way.
+
+---
 
 ## Table of Contents
 1. Overview
