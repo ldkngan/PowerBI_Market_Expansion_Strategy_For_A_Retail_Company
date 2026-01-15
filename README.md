@@ -1,7 +1,6 @@
 # PowerBI | Global Superstore Market Expansion Strategy
 
-![1](https://github.com/user-attachments/assets/6407d617-ddf7-4b8b-a984-a0fd5082597d)
-
+![market expansion](https://github.com/user-attachments/assets/ca685a7b-b234-48b7-b3bc-349817c2e057)
 
 This project uses the Global Superstore dataset to analyze **sales performance, profitability, and customer behavior** in order to support business decision-making. The analysis identifies key trends across regions, product categories, and time, helping highlight growth opportunities and areas of inefficiency.
 - **Author**: Le Dang Kim Ngan
