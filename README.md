@@ -88,6 +88,13 @@ The dataset consists of **three tables:**
 
 </details>
 
+**Data Relationships:**
+
+This project uses a **star-schema** model. The **Orders** table serves as the central **fact table**, connected to multiple dimension and supporting tables through **one-to-many** relationships.
+
+<img width="1022" height="706" alt="image" src="https://github.com/user-attachments/assets/b58c5899-e785-4d77-ad91-a75adf8583d0" />
+
+
 ---
 
 ## Design Thinking
