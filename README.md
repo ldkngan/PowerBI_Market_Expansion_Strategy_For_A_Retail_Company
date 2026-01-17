@@ -10,7 +10,7 @@ This project uses the Global Superstore dataset to analyze **sales performance, 
 ## Table of Contents
 1. Overview
 2. Introduction to Dataset
-3. Design Thinking
+3. Design Thinking Process
 4. Visualizations & Key Insights
 5. Recommendations
 
@@ -96,7 +96,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 ---
 
-## Design Thinking
+## Design Thinking Process
 ### Stage 1 - Empathize
 <img width="1021" height="551" alt="image" src="https://github.com/user-attachments/assets/b7b2c8d4-0098-471f-ae73-b2f87ce8d985" />
 <img width="1126" height="658" alt="image" src="https://github.com/user-attachments/assets/2969d805-2b72-4d47-a86e-575b32d72250" />
