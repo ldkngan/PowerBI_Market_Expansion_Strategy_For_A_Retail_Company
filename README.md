@@ -94,7 +94,6 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 <img width="1022" height="706" alt="image" src="https://github.com/user-attachments/assets/b58c5899-e785-4d77-ad91-a75adf8583d0" />
 
-
 ---
 
 ## Design Thinking
