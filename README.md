@@ -118,7 +118,6 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - Business Performance: Revenue and Profit show strong growth, indicating the company is in solid expansion phase. Orders are growing in line with sales, while Profit Margin (~11.6%) remains stable → signaling sustainable growth.
 - Core Markets: APAC & EU - Largest revenue base with stable margin (~12-13%). Require continued investment to maintain leadership.
 - High-potential Market: Canada - Small revenue but exceptionally high profit margin (26.62%). A promising niche market with expansion potential if scale increases.
-- Product: Phones and Copiers have high profit contribution with healthy demand levels, making them suitable as strategic products.
 
 ### II. Market Analysis
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b4a785c7-0221-4bfa-b24a-944e534c0756" />
@@ -139,7 +138,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 #### Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
-- Copiers, Phones are high-profit categories. Prioritize growth in high-potential regions (e.g. Canada) to capture both new demand and superior margins.
+- Phones and Copiers have high profit contribution with healthy demand levels, making them suitable as strategic products. Prioritize growth in high-potential regions (e.g. Canada) to capture both new demand and superior margins.
 
 ---
 
