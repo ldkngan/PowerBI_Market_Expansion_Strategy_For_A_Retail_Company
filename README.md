@@ -4,7 +4,7 @@
 
 This project uses the Global Superstore dataset to analyze **sales performance, profitability, and customer behavior** in order to support business decision-making. The analysis identifies key trends across regions, product categories, and time, helping highlight growth opportunities and areas of inefficiency.
 - **Author**: Le Dang Kim Ngan
-- **Tool Used**: PowerBI
+- **Tool Used**: PowerBI (PowerQuery, Data Modeling, DAX, Visualization)
 
 ---
 
