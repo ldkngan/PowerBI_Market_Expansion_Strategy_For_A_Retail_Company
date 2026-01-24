@@ -132,10 +132,11 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - Nicole Hansen is the only sales representatives in Canada, which presents both an operational risk and a growth limitation. It is advisable to retain Nicole as the lead representative for Canada and capitalize on her proven performance by involving her in onboarding and training new team members.
 
 ### III. Product Analysis
-<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/1caecae6-aceb-4937-b1d2-0cec42007145" />
+<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/f9255fe5-3212-4a52-86b6-d09763efa096" />
 
 #### Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
+- Tables is the weakest performer in the portfolio. It records the lowest total number of orders among all sub-categories while also generating negative total profit. This indicates both low market demand and structural profitability issues, where each additional order further erodes overall profit. Consider phasing out Tables from the strategic product portfolio and reallocating resources to higher-performing categories.
 - Phones and Copiers have high profit contribution with healthy demand levels, making them suitable as strategic products. Prioritize growth in high-potential regions (e.g. Canada) to capture both new demand and superior margins.
 
 ---
