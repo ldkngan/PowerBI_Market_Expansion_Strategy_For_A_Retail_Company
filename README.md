@@ -112,7 +112,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 ## Visualizations & Key Insights
 ### I. Overview
-<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/8c426190-5ecb-4e5b-9c72-299d2889b24f" />
+<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/23c41b7c-e8ca-449c-9a01-0214a083b763" />
 
 #### Key Insights
 - Business Performance: Revenue and Profit show strong growth, indicating the company is in solid expansion phase. Orders are growing in line with sales, while Profit Margin (~11.6%) remains stable → signaling sustainable growth.
@@ -120,7 +120,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - High-potential Market: Canada - Small revenue but exceptionally high profit margin (26.62%). A promising niche market with expansion potential if scale increases.
 
 ### II. Market Analysis
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b4a785c7-0221-4bfa-b24a-944e534c0756" />
+<img width="1439" height="809" alt="image" src="https://github.com/user-attachments/assets/48f275f4-6836-4d12-9ec7-dbbdb8fd4dbb" />
 
 #### Key Insights
 **Market**
@@ -134,7 +134,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - Nicole Hansen is the only sales representatives in Canada, which presents both an operational risk and a growth limitation. It is advisable to retain Nicole as the lead representative for Canada and capitalize on her proven performance by involving her in onboarding and training new team members.
 
 ### III. Product Analysis
-<img width="1595" height="898" alt="image" src="https://github.com/user-attachments/assets/cd3cd64e-0f00-4a59-a138-bdad73bc7bd6" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/1caecae6-aceb-4937-b1d2-0cec42007145" />
 
 #### Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
