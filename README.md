@@ -2,7 +2,7 @@
 
 <img width="2240" height="1260" alt="market expansion strategy" src="https://github.com/user-attachments/assets/8745d3e4-3721-49ab-a0af-673a6378c211" />
 
-This project uses the Global Superstore dataset to analyze **sales performance, profitability, and customer behavior** in order to support business decision-making. The analysis identifies key trends across regions, product categories, and time, helping highlight growth opportunities and areas of inefficiency.
+This project developes a strategic **Power BI dashboard** enabling leadership to assess the company’s overall business performance, identify market expansion opportunities, and determine priority product lines for investment.
 - **Author**: Le Dang Kim Ngan
 - **Tool Used**: PowerBI (PowerQuery, Data Modeling, DAX, Visualization)
 
@@ -122,7 +122,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 #### Key Insights
 **Market**
-- APAC & EU: These are Core Markets. Largest revenue with strong YoY growth (~51–55%). High absolute profit but only average profit margin (~12–13%) →  Continue investing, focus on margin improvement (reduce discounts, optimize logistics).
+- APAC & EU: These are Core Markets. Largest revenue with strong YoY growth (~51–55%). High absolute profit but only average profit margin (~12–13%) → Continue investing, focus on margin improvement (reduce discounts, optimize logistics).
 - US & LATAM: These markets have high revenue but suboptimal profitability. Solid sales (~$2M) but relatively low YoY growth (US 46.9%, LATAM 48.5%). Below-average profit margin (~10–12%) → Optimize costs, improve pricing strategy and product mix to raise margins.
 - Canada: This is small but highest margin market. Low revenue but outstanding profit margin (~28%) → Potential to expand and position as a premium niche market.
 - Africa & EMEA: These are Weak Markets - Low sales and margins despite high YoY growth → Not a priority for major investment; maintain presence and use as test markets for new products/models.
