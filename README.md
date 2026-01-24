@@ -18,8 +18,6 @@ This project uses the Global Superstore dataset to analyze **sales performance, 
 ---
 
 ## Overview
-### Dataset
-
 Global Superstore Sales is a dataset containing worldwide sales records for a company called Superstore. The company operates across multiple markets spanning several continents. As the company is experiencing strong growth, it aims to increase revenue across its markets to further expand market share.
 
 ### Project Objective
