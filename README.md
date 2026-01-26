@@ -104,7 +104,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 <img width="1199" height="607" alt="image" src="https://github.com/user-attachments/assets/4d9b6f4e-ae58-4c4a-aed3-807c9f72457b" />
 
 ### 📌 Stage 3 - Ideate
-<img width="1136" height="582" alt="image" src="https://github.com/user-attachments/assets/1b431207-d15b-46f6-a270-5e05b261db63" />
+<img width="1138" height="584" alt="image" src="https://github.com/user-attachments/assets/9ef8fa94-c1b5-401d-a334-69ada3cf6b45" />
 
 ---
 
