@@ -8,7 +8,7 @@ This project developes a strategic **Power BI dashboard** enabling leadership to
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 1. Overview
 2. Introduction to Dataset
 3. Design Thinking Process
@@ -17,10 +17,10 @@ This project developes a strategic **Power BI dashboard** enabling leadership to
 
 ---
 
-## Overview
+## ✨ Overview
 Global Superstore Sales is a dataset containing worldwide sales records for a company called Superstore. The company operates across multiple markets spanning several continents. As the company is experiencing strong growth, it aims to increase revenue across its markets to further expand market share.
 
-### Project Objective
+### 🎯 Project Objective
 
 The goal of this project is to build a Power BI dashboard that enables Senior Managers to understand the company’s business performance and make data-driven decisions regarding market expansion and strategic product selection.
 
@@ -31,7 +31,7 @@ Senior Managers are primarily focused on three key questions:
 
 ---
 
-## Introduction to Dataset
+## 📂 Introduction to Dataset
 The dataset consists of **three tables:**
 <details>
   <summary> Table 1: Orders – Contains detailed transaction and customer information (Click to see details)</summary>
@@ -95,24 +95,24 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 ---
 
-## Design Thinking Process
-### Stage 1 - Empathize
+## 🧠 Design Thinking Process
+### 📌 Stage 1 - Empathize
 <img width="1021" height="551" alt="image" src="https://github.com/user-attachments/assets/b7b2c8d4-0098-471f-ae73-b2f87ce8d985" />
 <img width="1126" height="658" alt="image" src="https://github.com/user-attachments/assets/2969d805-2b72-4d47-a86e-575b32d72250" />
 
-### Stage 2 - Define Point of View
+### 📌 Stage 2 - Define Point of View
 <img width="1199" height="607" alt="image" src="https://github.com/user-attachments/assets/4d9b6f4e-ae58-4c4a-aed3-807c9f72457b" />
 
-### Stage 3 - Ideate
+### 📌 Stage 3 - Ideate
 <img width="1136" height="582" alt="image" src="https://github.com/user-attachments/assets/1b431207-d15b-46f6-a270-5e05b261db63" />
 
 ---
 
-## Visualizations & Key Insights
+## 📊 Visualizations & Key Insights
 ### I. Overview
 <img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/23c41b7c-e8ca-449c-9a01-0214a083b763" />
 
-#### Key Insights
+#### 🔑 Key Insights
 - Business Performance: Revenue and Profit show strong growth, indicating the company is in solid expansion phase. Orders are growing in line with sales, while Profit Margin (~11.6%) remains stable → signaling sustainable growth.
 - Core Markets: APAC & EU - Largest revenue base with stable margin (~12-13%). Require continued investment to maintain leadership.
 - High-potential Market: Canada - Small revenue but exceptionally high profit margin (26.62%). A promising niche market with expansion potential if scale increases.
@@ -120,7 +120,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 ### II. Market Analysis
 <img width="1439" height="809" alt="image" src="https://github.com/user-attachments/assets/48f275f4-6836-4d12-9ec7-dbbdb8fd4dbb" />
 
-#### Key Insights
+#### 🔑 Key Insights
 **Market**
 - APAC & EU: These are Core Markets. Largest revenue with strong YoY growth (~51–55%). High absolute profit but only average profit margin (~12–13%) → Continue investing, focus on margin improvement (reduce discounts, optimize logistics).
 - US & LATAM: These markets have high revenue but suboptimal profitability. Solid sales (~$2M) but relatively low YoY growth (US 46.9%, LATAM 48.5%). Below-average profit margin (~10–12%) → Optimize costs, improve pricing strategy and product mix to raise margins.
@@ -134,14 +134,14 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 ### III. Product Analysis
 <img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/f9255fe5-3212-4a52-86b6-d09763efa096" />
 
-#### Key Insights
+#### 🔑 Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
 - Tables is the weakest performer in the portfolio. It records the lowest total number of orders among all sub-categories while also generating negative total profit. This indicates both low market demand and structural profitability issues, where each additional order further erodes overall profit. Consider phasing out Tables from the strategic product portfolio and reallocating resources to higher-performing categories.
 - Phones and Copiers have high profit contribution with healthy demand levels, making them suitable as strategic products. Prioritize growth in high-potential regions (e.g. Canada) to capture both new demand and superior margins.
 
 ---
 
-## Recommendations
+## 💡 Recommendations
 | Strategy | Recommendation |
 |---------|----------------|
 | APAC & EU – Core engines that need efficiency tuning | Standardize discount rules to avoid unnecessary price cuts. Re-optimize logistics (warehouse consolidation, seasonal route review). Run price A/B tests by segment to find profit-optimal price points. |
