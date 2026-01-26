@@ -141,7 +141,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 ---
 
-## 💡 Recommendations
+## 🚀 Recommendations
 | Strategy | Recommendation |
 |---------|----------------|
 | APAC & EU – Core engines that need efficiency tuning | Standardize discount rules to avoid unnecessary price cuts. Re-optimize logistics (warehouse consolidation, seasonal route review). Run price A/B tests by segment to find profit-optimal price points. |
