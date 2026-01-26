@@ -112,7 +112,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 ### I. Overview
 <img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/23c41b7c-e8ca-449c-9a01-0214a083b763" />
 
-#### 🔑 Key Insights
+#### 🔎 Key Insights
 - Business Performance: Revenue and Profit show strong growth, indicating the company is in solid expansion phase. Orders are growing in line with sales, while Profit Margin (~11.6%) remains stable → signaling sustainable growth.
 - Core Markets: APAC & EU - Largest revenue base with stable margin (~12-13%). Require continued investment to maintain leadership.
 - High-potential Market: Canada - Small revenue but exceptionally high profit margin (26.62%). A promising niche market with expansion potential if scale increases.
@@ -120,7 +120,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 ### II. Market Analysis
 <img width="1439" height="809" alt="image" src="https://github.com/user-attachments/assets/48f275f4-6836-4d12-9ec7-dbbdb8fd4dbb" />
 
-#### 🔑 Key Insights
+#### 🔎 Key Insights
 **Market**
 - APAC & EU: These are Core Markets. Largest revenue with strong YoY growth (~51–55%). High absolute profit but only average profit margin (~12–13%) → Continue investing, focus on margin improvement (reduce discounts, optimize logistics).
 - US & LATAM: These markets have high revenue but suboptimal profitability. Solid sales (~$2M) but relatively low YoY growth (US 46.9%, LATAM 48.5%). Below-average profit margin (~10–12%) → Optimize costs, improve pricing strategy and product mix to raise margins.
@@ -134,7 +134,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 ### III. Product Analysis
 <img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/f9255fe5-3212-4a52-86b6-d09763efa096" />
 
-#### 🔑 Key Insights
+#### 🔎 Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
 - Tables is the weakest performer in the portfolio. It records the lowest total number of orders among all sub-categories while also generating negative total profit. This indicates both low market demand and structural profitability issues, where each additional order further erodes overall profit. Consider phasing out Tables from the strategic product portfolio and reallocating resources to higher-performing categories.
 - Phones and Copiers have high profit contribution with healthy demand levels, making them suitable as strategic products. Prioritize growth in high-potential regions (e.g. Canada) to capture both new demand and superior margins.
