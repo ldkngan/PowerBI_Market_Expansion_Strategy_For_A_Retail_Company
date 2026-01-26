@@ -101,7 +101,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 <img width="1126" height="658" alt="image" src="https://github.com/user-attachments/assets/2969d805-2b72-4d47-a86e-575b32d72250" />
 
 ### Stage 2 - Define Point of View
-<img width="1200" height="609" alt="image" src="https://github.com/user-attachments/assets/7a0649bc-749e-4a0a-ab3f-380c6f413483" />
+<img width="1199" height="607" alt="image" src="https://github.com/user-attachments/assets/4d9b6f4e-ae58-4c4a-aed3-807c9f72457b" />
 
 ### Stage 3 - Ideate
 <img width="1136" height="582" alt="image" src="https://github.com/user-attachments/assets/1b431207-d15b-46f6-a270-5e05b261db63" />
