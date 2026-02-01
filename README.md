@@ -1,4 +1,4 @@
-# PowerBI | Global Superstore Sales Analysis & Market Expansion Strategy
+# Analyze Global Superstore Market Expansion Opportunities Using Power BI
 
 <img width="2240" height="1260" alt="market expansion strategy" src="https://github.com/user-attachments/assets/8745d3e4-3721-49ab-a0af-673a6378c211" />
 
