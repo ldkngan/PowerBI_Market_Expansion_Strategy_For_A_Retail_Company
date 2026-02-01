@@ -18,10 +18,10 @@ This project developes a strategic **Power BI dashboard** enabling leadership to
 ---
 
 ## ✨ Overview
-Global Superstore Sales is a dataset containing worldwide sales records for a company called Superstore. The company operates across multiple markets spanning several continents. As the company is experiencing strong growth, it aims to increase revenue across its markets to further expand market share.
+### 🏢 Business Context
+Global Superstore Sales is a dataset containing worldwide sales records for a company called Superstore. The company is a global retail company operating across multiple international markets, offering a diverse product portfolio that spans Technology, Furniture, and Office Supplies. As the company is experiencing strong growth, it aims to increase revenue across its markets to further expand market share.
 
 ### 🎯 Project Objective
-
 The goal of this project is to build a Power BI dashboard that enables Senior Managers to understand the company’s business performance and make data-driven decisions regarding market expansion and strategic product selection.
 
 Senior Managers are primarily focused on three key questions:
