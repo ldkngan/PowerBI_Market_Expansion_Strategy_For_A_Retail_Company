@@ -118,7 +118,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - High-potential Market: Canada - Small revenue but exceptionally high profit margin (26.62%). A promising niche market with expansion potential if scale increases.
 
 ### II. Market Analysis
-<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/b6b2a41b-9722-4053-932d-1160f14f1f00" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/1f9f19f9-a3d7-4fc4-a82d-42ab9cfa6fe7" />
 
 #### 🔎 Key Insights
 **Market**
