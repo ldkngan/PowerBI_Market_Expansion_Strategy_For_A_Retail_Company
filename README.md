@@ -132,7 +132,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 - Nicole Hansen is the only sales representatives in Canada, which presents both an operational risk and a growth limitation. It is advisable to retain Nicole as the lead representative for Canada and capitalize on her proven performance by involving her in onboarding and training new team members.
 
 ### III. Product Analysis
-<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/f9255fe5-3212-4a52-86b6-d09763efa096" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/41ef7e33-adaf-41bf-bc69-223abfa03784" />
 
 #### 🔎 Key Insights
 - Art, Storage, Binders are high-order, low-profit categories. It is suggested to position these items as entry products to attract customers, then bundle with higher-margin products (cross-sell & bundling) and use these products in promotional campaigns or loyalty initiatives to drive customer retention and upsell to profit-driving categories (marketing & loyalty programs).
