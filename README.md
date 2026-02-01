@@ -110,7 +110,7 @@ This project uses a **star-schema** model. The **Orders** table serves as the ce
 
 ## 📊 Visualizations & Key Insights
 ### I. Overview
-<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/23c41b7c-e8ca-449c-9a01-0214a083b763" />
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/f9b3ab2b-1b14-48cc-8b51-7cbcdc83dbbe" />
 
 #### 🔎 Key Insights
 - Business Performance: Revenue and Profit show strong growth, indicating the company is in solid expansion phase. Orders are growing in line with sales, while Profit Margin (~11.6%) remains stable → signaling sustainable growth.
